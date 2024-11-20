@@ -19,7 +19,7 @@
         <avro.version>1.11.3</avro.version>
         <json.smart.version>2.4.9</json.smart.version>
         <json.java.version>20231013</json.java.version>
-        <kafka.version>3.4.0</kafka.version>
+        <kafka.version>3.8.0</kafka.version>
         <log4j.version>2.23.1</log4j.version>
         <netty.version>4.1.94.Final</netty.version>
         <slf4jVersion>1.7.36</slf4jVersion>
