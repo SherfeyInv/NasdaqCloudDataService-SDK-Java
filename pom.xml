@@ -20,7 +20,7 @@
         <json.smart.version>2.4.9</json.smart.version>
         <json.java.version>20231013</json.java.version>
         <kafka.version>3.7.2</kafka.version>
-        <log4j.version>2.23.1</log4j.version>
+        <log4j.version>2.24.3</log4j.version>
         <netty.version>4.1.94.Final</netty.version>
         <slf4jVersion>1.7.36</slf4jVersion>
         <checkstyle.skip>true</checkstyle.skip>
