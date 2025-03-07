@@ -13,9 +13,7 @@
         <name>Nasdaq Cloud Data Service </name>
         <url>https://www.nasdaq.com</url>
     </organization>
-
-    <properties>     <slf4jVersion>1.7.36</slf4jVersion>
-        <checkstyle.skip>true</checkstyle.skip>
+    <checkstyle.skip>true</checkstyle.skip>
         <junit5.version>5.7.2</junit5.version>
         <junit5PlatformProvider.version>1.3.2</junit5PlatformProvider.version>
         <curatorTestVersion>2.12.0</curatorTestVersion>
