@@ -13,8 +13,7 @@
         <name>Nasdaq Cloud Data Service </name>
         <url>https://www.nasdaq.com</url>
     </organization>
-  <junit5PlatformProvider.version>1.3.2</junit5PlatformProvider.version>
-        <curatorTestVersion>2.12.0</curatorTestVersion>
+    <curatorTestVersion>2.12.0</curatorTestVersion>
         <surefire.version>2.22.2</surefire.version>
     </properties>
 
