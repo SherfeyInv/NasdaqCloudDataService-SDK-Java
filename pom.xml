@@ -15,13 +15,8 @@
     </organization>
 
     <properties>
-        <jackson.version>2.17.2</jackson.version>
-        <avro.version>1.11.4</avro.version>
-        <json.smart.version>2.4.9</json.smart.version>
-        <json.java.version>20231013</json.java.version>
-        <kafka.version>3.4.0</kafka.version>
-        <log4j.version>2.23.1</log4j.version>
-        <netty.version>4.1.94.Final</netty.version>
+ <json.java.version>20231013</json.java.version>
+    <netty.version>4.1.94.Final</netty.version>
         <slf4jVersion>1.7.36</slf4jVersion>
         <checkstyle.skip>true</checkstyle.skip>
         <junit5.version>5.7.2</junit5.version>
