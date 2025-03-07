@@ -14,10 +14,7 @@
         <url>https://www.nasdaq.com</url>
     </organization>
 
-    <properties>
- <json.java.version>20231013</json.java.version>
-    <netty.version>4.1.94.Final</netty.version>
-        <slf4jVersion>1.7.36</slf4jVersion>
+    <properties>     <slf4jVersion>1.7.36</slf4jVersion>
         <checkstyle.skip>true</checkstyle.skip>
         <junit5.version>5.7.2</junit5.version>
         <junit5PlatformProvider.version>1.3.2</junit5PlatformProvider.version>
