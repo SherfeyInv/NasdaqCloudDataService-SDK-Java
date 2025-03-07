@@ -15,8 +15,7 @@
     </organization>
 
     <properties>
-      <json.smart.version>2.4.9</json.smart.version>
-        <json.java.version>20231013</json.java.version>
+ <json.java.version>20231013</json.java.version>
     <netty.version>4.1.94.Final</netty.version>
         <slf4jVersion>1.7.36</slf4jVersion>
         <checkstyle.skip>true</checkstyle.skip>
